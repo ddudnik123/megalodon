@@ -145,9 +145,19 @@
       <path value="$PROJECT_DIR$/laravel/vendor/fig/http-message-util" />
       <path value="$PROJECT_DIR$/laravel/vendor/stella-maris/clock" />
       <path value="$PROJECT_DIR$/laravel/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/laravel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/laravel/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/laravel/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/laravel/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/laravel/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/laravel/vendor/facade/flare-client-php" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/laravel/vendor/autoload.php" />

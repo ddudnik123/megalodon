@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e724857-ca2d-4624-a0f6-f265dc63ba7a" name="Changes" comment="notifications">
+      <change afterPath="$PROJECT_DIR$/laravel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/clinic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/clinic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +18,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laravel" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -169,9 +173,20 @@
       <path value="$PROJECT_DIR$/laravel/vendor/fig/http-message-util" />
       <path value="$PROJECT_DIR$/laravel/vendor/stella-maris/clock" />
       <path value="$PROJECT_DIR$/laravel/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/laravel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/laravel/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/laravel/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/laravel/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/laravel/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/laravel/vendor/facade/flare-client-php" />
     </include_path>
   </component>
   <component name="ProjectId" id="2Ave32GVCJYAoGDYdLoRKNBNB5r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -192,6 +207,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -260,6 +276,7 @@
       <workItem from="1657906894751" duration="966000" />
       <workItem from="1658209292624" duration="3134000" />
       <workItem from="1658421747608" duration="942000" />
+      <workItem from="1658734645974" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="add adminlte lib">
       <created>1655899935227</created>
@@ -555,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658212309319</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="notifications">
+      <created>1658734734819</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1658734734820</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
